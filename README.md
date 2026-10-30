@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Hasim 👋
+I'm an AI and data engineer in Sydney. I build AI systems you can put in front of a customer: the model orchestrates and explains, the judgement lives in tested code, and evaluation gates catch regressions before anyone sees them.
 
-<!--
-**HasimRahman09/HasimRahman09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By day I'm a Data & Integration Engineer at CIM. There I help build a multi-agent system on the Claude API that commissions commercial buildings onto CIM's analytics platform, and I work on dbt models on BigQuery.
 
-Here are some ideas to get you started:
+Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Record Passport: finalist, RIMPA Global Hackathon 2026. It checks citations, weighs evidence and issues hash-chained record passports for AI-assisted government records. Live app
+Data gap ranker: ranks missing UN Sustainable Development Goal (SDG) data series by how many country comparisons filling them would unlock
+Australia labour market deep dive: interactive charts of unemployment, wages and suburb-level data from the ABS. Live site
+Tools: Python · Claude API · MCP · FastAPI · PostgreSQL · Polars · dbt · BigQuery · Streamlit · Next.js
+
+🌐 hasimrahman09.github.io · 💼 LinkedIn · ✉️ hasimrahman09@gmail.com
