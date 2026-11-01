@@ -1,13 +1,11 @@
-Hi, I'm Hasim 👋
-I'm an AI and data engineer in Sydney. I build AI systems you can put in front of a customer: the model orchestrates and explains, the judgement lives in tested code, and evaluation gates catch regressions before anyone sees them.
+I'm Hasim, a Data & Integration Engineer at CIM in Sydney.
 
-By day I'm a Data & Integration Engineer at CIM. There I help build a multi-agent system on the Claude API that commissions commercial buildings onto CIM's analytics platform, and I work on dbt models on BigQuery.
+At work I build the Claude agents that walk an engineer through commissioning a building onto CIM's analytics platform, and the tested Python underneath them that does the actual matching and checking. I also look after dbt models on BigQuery. That code is CIM's, so it isn't here.
 
-Selected work
+What is here:
 
-Record Passport: finalist, RIMPA Global Hackathon 2026. It checks citations, weighs evidence and issues hash-chained record passports for AI-assisted government records. Live app
-Data gap ranker: ranks missing UN Sustainable Development Goal (SDG) data series by how many country comparisons filling them would unlock
-Australia labour market deep dive: interactive charts of unemployment, wages and suburb-level data from the ABS. Live site
-Tools: Python · Claude API · MCP · FastAPI · PostgreSQL · Polars · dbt · BigQuery · Streamlit · Next.js
+- [record-passport](https://github.com/HasimRahman09/record-passport): checks AI-assisted documents before they're filed as records. Built with two teammates in three days; we were finalists at the RIMPA Global Hackathon 2026. ([live](https://record-check.vercel.app))
+- [data-gap-ranker](https://github.com/HasimRahman09/data-gap-ranker): ranks missing UN health statistics by how many country comparisons each would unlock.
+- [australia-labour-market](https://github.com/HasimRahman09/australia-labour-market): unemployment, wages and NSW suburbs from ABS data. ([live](https://hasimrahman09.github.io/australia-labour-market/))
 
-🌐 hasimrahman09.github.io · 💼 LinkedIn · ✉️ hasimrahman09@gmail.com
+More about me at [hasimrahman09.github.io](https://hasimrahman09.github.io), or reach me at hasimrahman09@gmail.com.
